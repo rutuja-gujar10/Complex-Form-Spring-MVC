@@ -117,4 +117,4 @@ college
 - MVC architecture design
 - JSP form handling
 - CRUD operations
-- Real-world project structuring
+- learn
